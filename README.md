@@ -2,8 +2,6 @@
 
 Ce script Google Apps Script estime les temps de trajet avec Google Maps et réserve les créneaux correspondants dans un agenda **Trajets**. Il ajoute une marge, arrondit les horaires et calcule un trajet direct entre deux rendez-vous rapprochés.
 
-Pour exclure un rendez-vous, ajouter `[sans trajet]` à son titre ou à sa description.
-
 ## Installation
 
 1. Ouvrir [Google Apps Script](https://script.google.com/) et coller le contenu de `Code.gs` dans le projet. En cas de mise à jour, conserver le même projet pour réutiliser l’agenda **Trajets**.
