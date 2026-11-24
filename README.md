@@ -1,6 +1,6 @@
 # Trajets automatiques pour Google Agenda
 
-Ce script Google Apps Script estime les durées de déplacement avec Google Maps et réserve les créneaux dans un agenda **Trajets**. Il ajoute une marge, arrondit les horaires et calcule un trajet direct entre deux rendez-vous rapprochés. Ajoute `[sans trajet]` au titre ou à la description d’un rendez-vous pour l’exclure.
+Ce script Google Apps Script estime les durées de déplacement avec Google Maps et réserve les créneaux dans un agenda **Trajets**. Il ajoute une marge, arrondit les horaires et calcule un trajet direct entre deux rendez-vous rapprochés. 
 
 ## Installation
 
